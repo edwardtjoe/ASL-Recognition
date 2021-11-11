@@ -49,6 +49,12 @@ However, understanding my current limits, my current goal is to train and recogn
 |4.|History|Model metrics (accuracy, loss, val_accuracy, val_loss)|
 |5.|CreateGestures.py|Python file to create dataset.|
 
+Some of the datasets were too large to be pushed onto GitHub. The links to these datasets are below:
+
+Models: https://drive.google.com/drive/folders/1TkE0VFxvOM9LvV12UGxh1qNKA5R-lHKp?usp=sharing
+
+Gestures dataset: https://drive.google.com/drive/folders/1jfvGZc1hsvgfKYH07Kwe08qsqCrdnfpW?usp=sharing
+
 
 ## Project Flow
 
